@@ -1,5 +1,7 @@
 #Image-Processing-API
--To start the server:
+
+#To start the server:
+
 npm run start
 -The Image API endpoint:
 localhost:3000/api/imageName.jpg , we use this if we want to show the original image, we write the name of one the image in the images folder
