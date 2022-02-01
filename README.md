@@ -1,4 +1,3 @@
 # Advanced-Full-Stack-Web-Development-Nanodegree-Program
-It will contain all the projects in this course.
-# First Project 
-Image Processing API
+This Repository will include the projects in Advanced Track (Back-End) on Udacity offered by FWD.
+
